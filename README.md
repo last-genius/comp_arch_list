@@ -18,7 +18,7 @@ _Якщо недоступні -- ну, кидайте запити, може а
 * [4-bit processor](https://www.canva.com/design/DADx0Kx6IaY/Q2Z41GveKDSFpIgcT0O0rA/view?utm_content=DADx0Kx6IaY&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 * [Z-80 based PC](https://ucu-my.sharepoint.com/:p:/r/personal/sahaidak_ucu_edu_ua/_layouts/15/guestaccess.aspx?e=Ng6Jul&share=EYDMDVeWPRNBjHm7KIIm884Bm63vlDMDHAALZaE2-pxa9A)
 * [4-bit calculator](https://docs.google.com/document/d/1IphjvD4wI7Vwe1t17P43NPFK0ohxi7iQmow8cEHQDjU/edit)
-* [_No access_](https://docs.google.com/document/d/1LtjiHkxA-oLUb9GCSJAmQmDdvP1J2ZHVZaJnFI-mJ3I/edit?ts=5c5dad7d)
+* [Meteostation](https://docs.google.com/document/d/1LtjiHkxA-oLUb9GCSJAmQmDdvP1J2ZHVZaJnFI-mJ3I/edit?ts=5c5dad7d)
 * [Scheme of a calculator (?)](https://drive.google.com/file/d/18_zjYOXvIOruf0BgyUTSI2o5rGsce9ZR/view)
 
 ## Література
