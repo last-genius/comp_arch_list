@@ -1,28 +1,6 @@
-## Презентації проектів ПОК попередніх років
-_Якщо недоступні -- ну, кидайте запити, може автори відкриють. 
-(Но поясніть, хто ви і навіщо вам це).
-(Частина отримали дуже мало балів, але кидаю всі)._
+## ПОК
 
-* [_Наявність проектів на презентаціях_](https://docs.google.com/spreadsheets/d/1OQcna0hUW8HT9PvdDt2CHFG72bElzgyijWx_4x-wG8c/edit#gid=0)
-* [Medical Button](https://docs.google.com/presentation/d/10wqn0Op5KRV4VowiK29n3UIGtt0INhXwxnoYA4LFJvs/edit?usp=sharing)
-* [Hell Machine](https://docs.google.com/presentation/d/1rCvsxydra85Ne-8xNApek4VEPd8FzjQ22kobBMkMAtw/edit#slide=id.p)
-* [4-bit calculator](https://docs.google.com/presentation/d/1Brwq0YbRhxK0HTJkhD56vkQt7YKXnsYk161jy8fTEJw/edit?usp=sharing)
-* [Розумний вазонок](https://docs.google.com/presentation/d/1VeQk5jj1lSiZk6G4R0s2BMPIFVAo82AswV1SHlF0jRA/edit?usp=sharing)
-* [Інтерактивний одяг](https://docs.google.com/presentation/d/1bp8OTyuVFxARvA6G5S0jPx8kpe8-wxWhyca9Hdj6f1s/edit#slide=id.g6dd7bae99c_2_45)
-* [Інтерактивний одяг](https://github.com/YulitaGap/WS2812B_diod_strip_programming/blob/master/final_presentation/interactive_helmet.pdf)
-* [Інструкції та бібліотека для OLED дисплеїв на основі контролера SH1106](https://docs.google.com/presentation/d/1o0uBgWh6FfidQWrMtE4H4RP2_jy6lnMmE2VWPtZVZro/edit#slide=id.p)
-* [Steganographic transfer of digital data by means of audio signal](https://docs.google.com/presentation/d/11TelWkd66CPrO03rqLbwBfkoCi0HtflZE8BYZEtY4zw/edit)
-* [Sleep Quality Monitor](https://docs.google.com/presentation/d/17c2T6QEMDIw-iToI-Ohhu1HFhhFelaM2JgfBHG943-U/edit#slide=id.g6de0090694_0_0)
-* [Ouroboros (?)](https://docs.google.com/presentation/d/1oTj08IYGWf9qo5CeWzTEdG3mRvr-25p1iVeJvRMurg0/edit#slide=id.p)
-* [Microprocessor Controller For Wine Fermentation](https://docs.google.com/presentation/d/1Vj-ruQ4zBT7IKx1gF2bHIsXXEqKsdXO7_gc3wkntGsw/edit#slide=id.p)
-* [4-bit processor](https://www.canva.com/design/DADx0Kx6IaY/Q2Z41GveKDSFpIgcT0O0rA/view?utm_content=DADx0Kx6IaY&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
-* [Z-80 based PC](https://ucu-my.sharepoint.com/:p:/r/personal/sahaidak_ucu_edu_ua/_layouts/15/guestaccess.aspx?e=Ng6Jul&share=EYDMDVeWPRNBjHm7KIIm884Bm63vlDMDHAALZaE2-pxa9A)
-* [4-bit calculator](https://docs.google.com/document/d/1IphjvD4wI7Vwe1t17P43NPFK0ohxi7iQmow8cEHQDjU/edit)
-* [Meteostation](https://docs.google.com/document/d/1LtjiHkxA-oLUb9GCSJAmQmDdvP1J2ZHVZaJnFI-mJ3I/edit?ts=5c5dad7d)
-* [Scheme of a calculator (?)](https://drive.google.com/file/d/18_zjYOXvIOruf0BgyUTSI2o5rGsce9ZR/view)
-
-## Література
-1. Перша книга, як б я настіливо радив: 
+1. Перша книга, як б я настійливо радив: 
 [David Harris, Sarah Harris «Digital Design and Computer Architecture»](books/Digital%20Design%20and%20Computer%20Architecture.%20ARM%20Edition%20by%20Sarah%20Harris,%20David%20Harris.pdf). 
 Краще англійською і варіант ARM(*), але можна як MIPS-варіант, так і російський. 
 Легко знаходиться в магазинах чи в піратів, 
@@ -49,9 +27,8 @@ _Якщо недоступні -- ну, кидайте запити, може а
 дуже хороша книжка: [Roger Tokheim, «Digital Electronics: Principles and Applications»](books/Digital%20Electronics%20Principles%20and%20Applications%20by%20Roger%20L.%20Tokheim.pdf)
  (є російський переклад). Можна і старе видання, 1988 -- ті речі не змінилися.
 
-7. Для практичних -- підручник по сучасному CMake (сучасному!). 
+7. Для практичних -- [підручник по сучасному CMake](books/Professional%20CMake%20A%20Practical%20Guide.pdf) 
 Ми будемо на практичних дуже широко ним користуватися всі три курси. 
-**На CMS є посилання -- як тільки він оживе.**
 
 8. Embedded частина -- в коментах, бо багато.
 
@@ -62,10 +39,25 @@ _Якщо недоступні -- ну, кидайте запити, може а
 
 _(*) ARM i MIPS -- це так-звані ISA, грубо кажучи, системи команд процесорів. В телефонах і наших ембеддед платах -- ARM. Десктопники і ноути наші -- всі зараз x86. Про MIPS дуже багато книжок (ті ж Хеннесі і Паттерсон -- автори MIPS), але на зустріти її важко -- в роутерах та іншому спецобладнанні буває._
 
-* Методичка по перших лабах із STM32: http://indrekis2.blogspot.com/2016/09/gpio-stm32f303-hal.html
-* Інша лаба: http://indrekis2.blogspot.com/2016/10/hc-sr04-gpiohal.html  , http://indrekis2.blogspot.com/2016/10/stm32_20.html та статті звідси: http://indrekis2.blogspot.com/2016/12/hc-sr04.html
-* Третя: http://indrekis2.blogspot.com/2016/10/lsm303dlhc-hal.html  і http://indrekis2.blogspot.com/2017/01/nokia-5110-pcd8544-stm32.html (код потворний, може нарешті перепишу, бо соромно третій рік, а часу немає :=) -- суть, що такий не пишіть, я за ніч перед проектами студетнів нашого першого випуску наваяв, щоб їм допомогти, так і лежить).
-* Як по USB передавати: http://indrekis2.blogspot.com/2017/12/virtual-com-port-usb-stm32f3discovery.html і http://indrekis2.blogspot.com/2017/12/usb-vcp-stm32-discovery.html
-* Як найпростіше на контролерах debug-print-и бачити: http://indrekis2.blogspot.com/2017/10/semihosting.html , ну і: http://indrekis2.blogspot.com/2015/11/c-semihosting-stm32-coide.html
-* Які у нас плати є. Список неповний -- зараз є більше і цікавіших: http://indrekis2.blogspot.com/2017/12/stm32-discovery.html
-* Загальний огляд STM32: http://indrekis2.blogspot.com/2012/10/stm32-arm-cortex-m-stmicroelectronics.html
+## АКС 
+
+Мінімальний список необхідних книг та статей
+
+1. [Andrew S. Tanenbaum and Herbert Bos, "Modern Operating Systems"](books/Modern%20Operating%20Systems%20by%20Andrew%20S.%20Tanenbaum,%20Herbert%20Bos.pdf) -- вона ближча до нашого наступного курсу, ОС, але для АКС необхідними є глави 1, 2, 3, 6, 8. (4, 5 і 7 -- бажані, решта -- можуть почекати до осені).
+
+2. David Patterson, John Hennessy [«Computer Organization and Design: The Hardware/Software Interface»](books/Computer%20Organization%20and%20Design%20The%20Hardware%20Software%20Interface%20ARM%20Edition%20by%20David%20A.%20Patterson,%20John%20L.%20Hennessy.pdf)
+та ["Computer Architecture A Quantitative Approach"](books/Computer%20Architecture,%20Sixth%20Edition%20A%20Quantitative%20Approach.pdf)
+цих же авторів. 
+
+3. Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea, ["Java Concurrency in Practice"](books/Java%20Concurrency%20in%20Practice.pdf). Книжка вже трішки давня, але все ще актуальна -- вона не містить найновіших "фішок" Java, але детально описує принципи абстракцій середнього і низького рівня, які не змінилися.
+    Щодо архітектури пам'яті: "What every programmer should know about memory" by Ulrich Drepper.
+    Floating-point, критична тема для AI, ML, геймдеву, інших інженерних чи наукових обчислень: "What Every Computer Scientist Should Know About Floating-Point Arithmetic" (pdf). Це мінімальна стаття! Хто хоче більшого -- тут.
+
+
+Вище -- це, так би мовити. книги для оцінок D-C. Більш просунутими, для A-B є:
+
+1. John Hennessy, David Patterson ["Computer Architecture : A Quantitative Approach"](books/Computer%20Architecture,%20Sixth%20Edition%20A%20Quantitative%20Approach.pdf)
+
+2. David Harris, Sarah Harris [«Digital Design and Computer Architecture»](books/Digital%20Design%20and%20Computer%20Architecture.%20ARM%20Edition%20by%20Sarah%20Harris,%20David%20Harris.pdf). 
+
+3. Anthony Williams ["C++ Concurrency in Action: Practical Multithreading"](books/C++%20Concurrency%20in%20Action.pdf)
