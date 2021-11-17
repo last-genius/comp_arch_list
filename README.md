@@ -27,7 +27,7 @@
 дуже хороша книжка: [Roger Tokheim, «Digital Electronics: Principles and Applications»](books/Digital%20Electronics%20Principles%20and%20Applications%20by%20Roger%20L.%20Tokheim.pdf)
  (є російський переклад). Можна і старе видання, 1988 -- ті речі не змінилися.
 
-7. Для практичних -- [підручник по сучасному CMake](books/Professional%20CMake%20A%20Practical%20Guide.pdf) 
+7. Для практичних -- підручник по сучасному CMake ("Professional CMake: A practical guide")
 Ми будемо на практичних дуже широко ним користуватися всі три курси. 
 
 8. Embedded частина -- в коментах, бо багато.
