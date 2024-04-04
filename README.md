@@ -13,7 +13,9 @@
 3. [Підручник по С. Класична книга Кернігана і Річчі](books/The%20C%20Programming%20Language%20by%20Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie.pdf) 
 підійде. (Вона справді проста і доступна -- вчити С++ по довіднику Страуструпа я не радив би :=)
 
-4. ["Linkers and Loaders"](books/Linkers%20and%20Loaders%20by%20John%20R.%20Levine.pdf), 
+4. Note: I've had to comply with a DMCA takedown notice for this book. It now links to the
+author's uncorrected draft for the book published for free, not the final publisher's PDF.
+["Linkers and Loaders"](https://www.iecc.com/linker/)
 [Amazon-сторінка](https://www.amazon.com/Linkers-Kaufmann-Software-Engineering-Programming/dp/1558604960)
 Вона відносно складна для вас, але ми повинні будемо ці ідеї засвоїти так чи по іншому.
 
