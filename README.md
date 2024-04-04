@@ -6,14 +6,16 @@
 Легко знаходиться в магазинах чи в піратів, 
 [російський варіант безкоштовний.](http://microelectronica.pro/wp-content/uploads/books/digital-design-and-computer-architecture-russian-translation.pdf)
  
-2. Книга Таненбаума: ["Modern Operating Systems"](books/Modern%20Operating%20Systems%20by%20Andrew%20S.%20Tanenbaum,%20Herbert%20Bos.pdf),
+2. Книга Таненбаума: ["Modern Operating Systems"](https://os.ecci.ucr.ac.cr/slides/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf),
 глави: 1, 2, 3 і 7 -- обов'язково, 4, 5 бажано. Решта можна, але ми з їх матеріалом 
 потім працюватимемо. [Детальніше, що це за глави і навіщо вам вони.](http://indrekis2.blogspot.com/2016/06/blog-post.html)
  
 3. [Підручник по С. Класична книга Кернігана і Річчі](books/The%20C%20Programming%20Language%20by%20Brian%20W.%20Kernighan,%20Dennis%20M.%20Ritchie.pdf) 
 підійде. (Вона справді проста і доступна -- вчити С++ по довіднику Страуструпа я не радив би :=)
 
-4. ["Linkers and Loaders"](books/Linkers%20and%20Loaders%20by%20John%20R.%20Levine.pdf), 
+4. Note: I've had to comply with a DMCA takedown notice for this book. It now links to the
+author's uncorrected draft for the book published for free, not the final publisher's PDF.
+["Linkers and Loaders"](https://www.iecc.com/linker/)
 [Amazon-сторінка](https://www.amazon.com/Linkers-Kaufmann-Software-Engineering-Programming/dp/1558604960)
 Вона відносно складна для вас, але ми повинні будемо ці ідеї засвоїти так чи по іншому.
 
@@ -43,7 +45,7 @@ _(*) ARM i MIPS -- це так-звані ISA, грубо кажучи, сист
 
 Мінімальний список необхідних книг та статей
 
-1. [Andrew S. Tanenbaum and Herbert Bos, "Modern Operating Systems"](books/Modern%20Operating%20Systems%20by%20Andrew%20S.%20Tanenbaum,%20Herbert%20Bos.pdf) -- вона ближча до нашого наступного курсу, ОС, але для АКС необхідними є глави 1, 2, 3, 6, 8. (4, 5 і 7 -- бажані, решта -- можуть почекати до осені).
+1. [Andrew S. Tanenbaum and Herbert Bos, "Modern Operating Systems"](https://os.ecci.ucr.ac.cr/slides/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf) -- вона ближча до нашого наступного курсу, ОС, але для АКС необхідними є глави 1, 2, 3, 6, 8. (4, 5 і 7 -- бажані, решта -- можуть почекати до осені).
 
 2. David Patterson, John Hennessy [«Computer Organization and Design: The Hardware/Software Interface»](books/Computer%20Organization%20and%20Design%20The%20Hardware%20Software%20Interface%20ARM%20Edition%20by%20David%20A.%20Patterson,%20John%20L.%20Hennessy.pdf)
 та ["Computer Architecture A Quantitative Approach"](books/Computer%20Architecture,%20Sixth%20Edition%20A%20Quantitative%20Approach.pdf)
